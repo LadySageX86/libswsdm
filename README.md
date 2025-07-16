@@ -1,5 +1,5 @@
 # libswsdm v2.0.0
-## Developed by Sage Smith
+## Developed by Sage Smith (sagemistressmods@gmail.com)
 ### Last updated 8 December 2022
 
 ## THIS PROJECT IS BEING DEPRECATED 7/27/23
