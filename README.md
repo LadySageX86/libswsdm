@@ -1,5 +1,5 @@
 # libswsdm v2.0.0
-## Developed by Spencer W. Smith (spencerwayne310@gmail.com)
+## Developed by Sage Smith
 ### Last updated 8 December 2022
 
 ## THIS PROJECT IS BEING DEPRECATED 7/27/23
